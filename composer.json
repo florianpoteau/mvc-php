@@ -1,0 +1,19 @@
+{
+    "name": "florian/livre",
+    "type": "project",
+    "require": {
+        "twbs/bootstrap": "^5.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Florian\\Livre\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Poteau Florian",
+            "email": "florianpoteau59@gmail.com"
+        }
+    ]
+}
